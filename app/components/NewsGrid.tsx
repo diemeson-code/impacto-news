@@ -1,6 +1,6 @@
 
-import NewsCard from "../NewsCard/NewsCard";
-import { noticias } from "../../data/noticia";
+import NewsCard from "./NewsCard";
+import { noticias } from "../data/noticia";
 
 export default function NewsGrid() {
   return (

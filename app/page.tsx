@@ -1,8 +1,6 @@
-
-
-import Header from "./Components/Header/Header";
-import Hero from "./Components/Hero/Hero";
-import NewsGrid from "./Components/NewsGrid/NewsGrid";
+import Header from "./components/Header";
+import Hero from "./components/Hero";
+import NewsGrid from "./components/NewsGrid";
 
 export default function Home() {
   return (
