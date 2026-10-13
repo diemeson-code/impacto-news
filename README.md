@@ -1,19 +1,18 @@
-
 # 📰 Impacto News
 
-Portal de notícias desenvolvido para apresentar informações de diferentes categorias, com uma interface moderna e organizada.
+Portal de notícias desenvolvido com uma interface moderna e organizada, com foco na apresentação de notícias e na experiência de navegação do usuário.
 
 ## 📌 Sobre o projeto
 
-O **Impacto News** é um projeto desenvolvido com o objetivo de praticar e aprimorar habilidades em desenvolvimento Front-End, utilizando React, Next.js e TypeScript.
+O **Impacto News** é um projeto de portfólio desenvolvido para praticar e aprimorar habilidades em desenvolvimento Front-End, utilizando React, Next.js e TypeScript.
 
-O portal possui uma página inicial com destaques e cards de notícias, além de páginas individuais para a leitura de cada notícia.
+A aplicação apresenta uma página inicial com destaques e cards de notícias, além de páginas individuais para a leitura de cada notícia.
 
 ## ✨ Funcionalidades
 
 - Página inicial com apresentação das notícias.
 - Exibição de notícias em cards.
-- Organização dos dados das notícias em um arquivo centralizado.
+- Organização dos dados em um arquivo centralizado.
 - Páginas individuais para cada notícia.
 - Navegação entre a página inicial e as notícias.
 
@@ -48,44 +47,40 @@ app/
 
 ### Pré-requisitos
 
-- Node.js instalado.
-- npm instalado.
+- [Node.js](https://nodejs.org/) instalado.
+- npm, que acompanha a instalação do Node.js.
 
-### Instalação
-
-Clone o repositório:
+### 1. Clone o repositório
 
 ```bash
 git clone https://github.com/diemeson-code/impacto-news.git
 ```
 
-Entre na pasta do projeto:
+### 2. Entre na pasta do projeto
 
 ```bash
 cd impacto-news
 ```
 
-Instale as dependências:
+### 3. Instale as dependências
 
 ```bash
 npm install
 ```
 
-Inicie o servidor de desenvolvimento:
+### 4. Inicie o servidor de desenvolvimento
 
 ```bash
 npm run dev
 ```
 
-Acesse no navegador:
+### 5. Acesse no navegador
 
-```text
 http://localhost:3000
-```
 
 ## 📚 Aprendizados
 
-Durante o desenvolvimento, são praticados conceitos como:
+Durante o desenvolvimento do projeto, são praticados conceitos como:
 
 - Criação e reutilização de componentes React.
 - Organização de pastas e arquivos.
@@ -96,6 +91,7 @@ Durante o desenvolvimento, são praticados conceitos como:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Diemeson dos Santos**.
+**Diemeson dos Santos**
 
-Projeto de portfólio para estudos e evolução em desenvolvimento web.
+Projeto de portfólio voltado à prática e à evolução contínua em desenvolvimento web.
+
