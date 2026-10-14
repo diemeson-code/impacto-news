@@ -1,13 +1,11 @@
-
 import Link from "next/link";
 
 const categorias = [
-  { nome: "Brasil", caminho: "/brasil" },
-  { nome: "Mundo", caminho: "/mundo" },
-  { nome: "Tecnologia", caminho: "/tecnologia" },
-  { nome: "Esportes", caminho: "/esportes" },
+  { nome: "Brasil", caminho: "/categoria/brasil" },
+  { nome: "Mundo", caminho: "/categoria/mundo" },
+  { nome: "Tecnologia", caminho: "/categoria/tecnologia" },
+  { nome: "Esportes", caminho: "/categoria/esportes" },
 ];
-
 export default function Header() {
   return (
     <header className="border-b border-blue-900 bg-slate-950 text-white shadow-lg">
@@ -41,3 +39,5 @@ export default function Header() {
     </header>
   );
 }
+
+

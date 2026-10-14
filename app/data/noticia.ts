@@ -46,4 +46,28 @@ export const noticias: Noticia[] = [
     conteudo:
       "As tecnologias de comunicação permitem que pessoas e organizações colaborem mesmo estando em diferentes países.\n\nA conectividade facilita o compartilhamento de informações e cria novas possibilidades de colaboração.",
   },
+  {
+id: "4",
+categoria: "Esportes",
+titulo: "Tecnologia ganha espaço na preparação de atletas",
+resumo:
+"Equipamentos e análise de dados ajudam equipes a acompanhar o desempenho esportivo.",
+data: "13 de outubro de 2026",
+imagem:
+"https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80",
+conteudo:
+"A tecnologia vem sendo utilizada na preparação de atletas de diferentes modalidades. Sensores, vídeos e ferramentas de análise ajudam treinadores a acompanhar o desempenho e identificar pontos que podem ser aprimorados.\n\nEsses recursos podem contribuir para o planejamento dos treinos, respeitando as características e as necessidades de cada atleta.",
+},
+{
+id: "5",
+categoria: "Esportes",
+titulo: "Atividade física reforça a importância da disciplina",
+resumo:
+"A regularidade nos treinos é um dos fatores importantes para a evolução esportiva.",
+data: "13 de outubro de 2026",
+imagem:
+"https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=1200&q=80",
+conteudo:
+"A prática esportiva exige dedicação, planejamento e constância. A evolução depende de fatores como treinamento adequado, descanso e acompanhamento profissional.\n\nEstabelecer metas realistas e respeitar os limites individuais são atitudes importantes para manter uma rotina esportiva sustentável.",
+},
 ];
